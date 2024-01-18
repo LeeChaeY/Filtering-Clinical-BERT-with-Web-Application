@@ -24,3 +24,4 @@ FC-BERT 모델 기반의 웹 어플리케이션 개발
 
 ## 논문
 + 약물 이상 반응 탐지를 위한 Filtering Clinical BERT (FC-BERT) 기반의 웹 어플리케이션 개발
++ https://koreascience.kr/article/CFKO202319360803635.page 
